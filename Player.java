@@ -1,8 +1,5 @@
-/* Name: Philip Chen
-Teacher: Mr. Guglielmi
-Date: November 12, 2020
-Description: Draws player and controls player movement
-*/
+// Description: Draws player and controls player movement
+
 import hsa.Console;
 import java.awt.*;
 
