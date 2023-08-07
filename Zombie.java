@@ -1,8 +1,5 @@
-/* Name: Philip Chen
-Teacher: Mr. Guglielmi
-Date: November 12, 2020
-Description: Creates a zombie
-*/
+// Description: Creates a zombie
+
 import hsa.Console;
 import java.awt.*;
 
