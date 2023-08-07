@@ -1,8 +1,5 @@
-/* Name: Philip Chen
-Teacher: Mr. Guglielmi
-Date: November 9, 2020
-Description: Displays program splash screen with loading bar
-*/
+// Description: Displays program splash screen with loading bar
+
 import hsa.Console;
 import java.awt.*;
 import java.lang.*;
