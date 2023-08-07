@@ -1,8 +1,5 @@
-/* Name: Philip Chen
-Teacher: Mr. Guglielmi
-Date: November 5, 2020
-Assignmnent: Creating a zombie survival video game using all of the concepts I have learned throughout this course
-*/
+// Creating a zombie survival video game using all of the concepts I have learned
+
 import hsa.Console;
 import java.awt.*;
 import java.io.*;
@@ -590,7 +587,7 @@ public class ZombieSurvival
 	c.drawString("Thank you for for playing Zombie Survival.",155,340);
 	c.drawString("Goodbye!",280,370);
 	c.setFont(new Font("Arial",4,16));
-	c.drawString("© 2020 Zombie Survival. All Rights Reserved", 172, 400);        
+	c.drawString("Â© 2020 Zombie Survival. All Rights Reserved", 172, 400);        
 	c.setFont(new Font("Arial",4,20));
 	c.drawString("(Press any key to continue)", 210, 440);
 	c.getChar();
