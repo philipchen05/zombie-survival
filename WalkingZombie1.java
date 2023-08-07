@@ -1,8 +1,5 @@
-/* Name: Philip Chen
-Teacher: Mr. Guglielmi
-Date: November 9, 2020
-Description: Creates walking zombie animation for program splash screen
-*/
+// Description: Creates walking zombie animation for program splash screen
+
 import hsa.Console;
 import java.awt.*;
 import java.lang.*;
