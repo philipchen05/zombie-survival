@@ -1,4 +1,4 @@
-// Creating a zombie survival video game using all of the concepts I have learned
+// Creating a zombie survival video game using all of the programming concepts I have learned thus far
 
 import hsa.Console;
 import java.awt.*;
