@@ -1,8 +1,5 @@
-/* Name: Philip Chen
-Teacher: Mr. Guglielmi
-Date: November 14, 2020
-Description: Displays game stats
-*/
+// Description: Displays game stats
+
 import hsa.Console;
 import java.awt.*;
 
