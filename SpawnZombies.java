@@ -1,8 +1,5 @@
-/* Name: Philip Chen
-Teacher: Mr. Guglielmi
-Date: November 15, 2020
-Description: Spawns zombies
-*/
+// Description: Spawns zombies
+
 import hsa.Console;
 import java.awt.*;
 
