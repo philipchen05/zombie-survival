@@ -1,8 +1,4 @@
-/* Name: Philip Chen
-Teacher: Mr. Guglielmi
-Date: November 15, 2020
-Description: Creates timer for gameplay
-*/
+// Description: Creates timer for gameplay
 
 // Clock class
 public class Clock extends Thread
