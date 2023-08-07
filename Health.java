@@ -1,8 +1,5 @@
-/* Name: Philip Chen
-Teacher: Mr. Guglielmi
-Date: November 14, 2020
-Description: Calculates player health
-*/
+// Description: Calculates player health
+
 import hsa.Console;
 import java.awt.*;
 
