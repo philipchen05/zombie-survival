@@ -1,8 +1,4 @@
-/* Name: Philip Chen
-Teacher: Mr. Guglielmi
-Date: November 9, 2020
-Description: Controls program animations
-*/
+// Description: Controls program animations
 import hsa.Console;
 import java.lang.*;
 
