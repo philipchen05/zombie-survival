@@ -1,4 +1,5 @@
 // Description: Controls program animations
+
 import hsa.Console;
 import java.lang.*;
 
